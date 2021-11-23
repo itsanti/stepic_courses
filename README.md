@@ -1,1 +1,1 @@
-# stepic_courses
+# stepik_courses
